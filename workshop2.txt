@@ -1,1 +1,2 @@
 Here is a second file.
+Here are some more changes to workshop2 that I made in my new branch.
